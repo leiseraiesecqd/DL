@@ -4,7 +4,9 @@ import gzip, os
 from struct import unpack
 import numpy as np
 from array import array
-
+'''
+used for reading mnist dataset
+'''
 
 def load_mnist(dataset='_', path='.'):
     """
