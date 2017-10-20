@@ -5,6 +5,7 @@ __author__ = 'leiser'
 
 '''
 Network definition
+finished with two parts:network part and check part
 '''
 import random
 from functools import reduce
