@@ -1,6 +1,8 @@
 # DL
-
+'''
+by leiser
 basic coding for Neural Network
+'''
 
 network.py--> basic network structure
 
